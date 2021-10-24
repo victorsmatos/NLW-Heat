@@ -1,4 +1,6 @@
 
+<img width="960" alt="NLWHEAT - 1920x1080" src="https://user-images.githubusercontent.com/62467673/138609866-5303e553-d400-42da-aa21-e088e77ac7a3.png">
+
 <h1> 🚀 NLW Heat 2021 </h1>
 
 ### 📛 Crachá Virtual 
