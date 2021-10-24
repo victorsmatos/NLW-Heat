@@ -16,13 +16,3 @@ Este projeto foi criado pela Rocketseat e apresentado no NLW Heat 2021, o últim
 
 ### 📐 Layout Mobile
 Cracha exclusiva para uso no evento DoWhile 2021 🚀
-
-Demonstração
-
-### 👨🏽 Sobre mim
-Meu nome é Victor Matos, tenho 25 anos e estou cursando Ciência da Computação. Atualmente busco entender um pouco sobre cada área da tecnologia para conhecer e encontrar minha vocação, mesmo meus olhos brilhando para o desenvolvimento front-end. Tenho conhecimentos em UX/UI Design e experiência em hardware.
-
-• Linkedin
-• Rocketseat
-
-→ Voltar ao topo
